@@ -21,7 +21,6 @@ body {
     0% { background-position: 0% 50% }
     100% { background-position: 100% 50% }
 }
-
 #welcome {
     position: fixed;
     width: 100%;
@@ -34,7 +33,6 @@ body {
     z-index: 1000;
     color: #ff4da6;
 }
-
 #name {
     font-size: 32px;
     opacity: 0;
